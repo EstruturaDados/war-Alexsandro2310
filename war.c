@@ -3,7 +3,7 @@
 
 #define TOTAL_TERRITORIOS 5
 
-// Definição da struct Territorio
+// Definição da struct 
 // Armazena nome do território, cor do exército e quantidade de tropas
 struct Territorio {
     char nome[30];
